@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=alamin-babu&style=flat&color=blue)
-[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
+[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)
 **[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&size=28&duration=1700&pause=2500&color=F7103D&random=false&width=600&lines=Wichi+Here!;Ingeniero+de+Sistemas+en+formaci%C3%B3n+%F0%9F%9A%80;Desarrollador+Web+%26+Maker+%F0%9F%94%A5;Construyendo+ideas+con+tecnolog%C3%ADa+%F0%9F%92%BB)](https://git.io/typing-svg)**
 
 
